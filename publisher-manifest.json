@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "44d4762d36349c320be6bb11",
+  "owner": "gmnmcmrqt",
+  "repo": "page-22af2b3753a93ba3e19bb922",
+  "title": "小鸡快跑(ChickenRun)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "22af2b3753a93ba3e19bb922",
+      "a": "小鸡快跑(ChickenRun)",
+      "b": "2027官方最新地址导航",
+      "entity": "小鸡快跑(ChickenRun)",
+      "brand": "小鸡快跑(ChickenRun)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a5abb341127bd4f2846d40136e20cb41390c8e8dcf24019a6a59326bedd2cde9",
+      "content": {
+        "primary_entity": "小鸡快跑(ChickenRun)",
+        "keyword1": "小鸡快跑(ChickenRun)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_HERO_SUBTITLE": "轻量加速，畅快起步",
+          "AI_HERO_INTRO": "小鸡快跑是一款面向海外网络访问的加速器，提供基础版、旗舰版与团队版三档订阅，覆盖流媒体解锁、游戏专线与多设备在线场景。按流量与设备数选择合适套餐，即可通过 Clash、Shadowrocket 等客户端导入订阅使用。",
+          "AI_VISUAL_TITLE": "小鸡快跑极速网络加速",
+          "AI_HIGHLIGHT_1": "三档订阅覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "IPLC 专线优化游戏延迟",
+          "AI_HIGHLIGHT_3": "多客户端订阅一键导入",
+          "AI_DESCRIPTION": "，以三档订阅计划满足不同规模的使用需求。基础版每月 100GB 流量、支持 3 台设备，适合单人或双人轻度使用；旗舰版每月 300GB 流量、支持 5 台设备，并配备全节点原生流媒体解锁与 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备，附带 VIP 专属高带宽节点与企业定制路由选项。年付方案相较月付更划算，可根据流量与设备数量灵活升级。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度快速理解小鸡快跑的使用方式。",
+          "AI_FEATURE_TITLE_1": "按需选择套餐档位",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合轻度浏览，旗舰版每月 300GB 兼顾流媒体与游戏，团队版每月 1000GB 满足多设备并行。",
+          "AI_FEATURE_TITLE_2": "设备数量弹性匹配",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备、旗舰版 5 台、团队版 20 台，手机、平板、电脑可同时在线而不互相挤占。",
+          "AI_FEATURE_TITLE_3": "年付更省订阅成本",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，长期使用可选年付方案降低月均支出。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与节点品质上逐级提升，可根据日常用量与同时在线设备数挑选。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据所用设备挑选对应客户端，再导入订阅链接即可开始使用，不同平台请以客户端文档为准。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅配置，通常只需三步。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数，在基础版、旗舰版、团队版之间选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备与操作系统，选择对应的客户端类型，并核对套餐支持的设备数量上限。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按照所选客户端文档导入订阅信息，完成节点更新后即可开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，轻快出发",
+          "AI_CLOSING_TEXT": "根据流量与设备数选定套餐，按客户端文档导入订阅，即可体验小鸡快跑的加速服务。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "不同套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备并含 IPLC 专线与流媒体解锁；团队版每月 1000GB、20 台设备，支持定制路由。",
+          "AI_FAQ_QUESTION_2": "年付比月付节省多少？",
+          "AI_FAQ_ANSWER_2": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850，按年付费相当于节省两个月费用。",
+          "AI_FAQ_QUESTION_3": "如何选择适合的客户端？",
+          "AI_FAQ_ANSWER_3": "先确认设备系统，再参考对应客户端的配置文档导入订阅。不同客户端界面不同，按文档操作即可。",
+          "AI_FAQ_QUESTION_4": "设备数量超出套餐限制怎么办？",
+          "AI_FAQ_ANSWER_4": "可升级到更高档位套餐，例如从基础版升级到旗舰版或团队版，以获得更多同时在线设备数。",
+          "AI_FAQ_QUESTION_5": "支持哪些流媒体解锁？",
+          "AI_FAQ_ANSWER_5": "旗舰版包含全节点原生流媒体解锁，基础版支持基础流媒体。具体可用范围随线路节点变化。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sxxzkjaa.com",
+    "host": "sxxzkjaa.com"
+  },
+  "file_hashes": {
+    "index.html": "362e85d5121fa430674196cddb701cf32e2e63f8222073236c9b2aa38242bda6",
+    "sitemap.xml": "0b4af2ec4382c60b3fd106c1a1e382c47079e2d06d9ffeb40eda07c0cc05b765",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6377b2543b07b8c972f3f562ffef0cb385427532dfff4baeecf4913f8a34b0b5",
+    "robots.txt": "ec824299e9fdad0e5317c482f8fdb13142bb07526346850d756b432df6b93eff",
+    "c4ca695be938d32db2b4c3fadff8228d.txt": "035eca4f635763f5dacff7512aa07688412ec738c8d3959df85f0bd3ceff3811"
+  },
+  "revision": "f6d1db65fb711ccf889fa188e6a49763f4da4a73f98724c2f5aea12d6b347950"
+}
